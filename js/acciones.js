@@ -14,7 +14,7 @@ $('#principal').height($('#page1').height());
 	  audio.preloadFx('si','audio/SI.mp3', function(){},function(e){alert('Error '+e);});
      
 $('.nota').bind('touchstart',function(){
-	$(this).add('tocada');
+	$(this).addClass('tocada');
 	audio.play($(this).attr('id'));
 	
 }).bind('touchend',function(){
