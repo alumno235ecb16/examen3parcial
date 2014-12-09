@@ -7,15 +7,15 @@
   <!--versionCode is optional and Android only-->
   <name>3er Parcial 5toE app piano</name>
    
-  <descripcion>
+  <description>
     Utilizar plugins de audio con un piano y las notas musicales 
-	</descripcion>
+	</description>
 	
 	<preference name="phonegap-version" value="3.1.0"/>
 	<!--forzar la orientacion a horizontal-->
 	<preference name="orientation" value="landscape"/>
 	
-	<author href="http://build.phonegap.com" email="support@phonegap.com">
+	<author href="https://build.phonegap.com" email="support@phonegap.com">
 	Mariana Pomposo Gonsaga
 	</author> 
 	
